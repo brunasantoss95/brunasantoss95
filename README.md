@@ -7,8 +7,8 @@
 </div>
 
 <div><h4>〰️ Sobre mim</h4>
-<p>Sou estudante de Tecnologia da Informação em busca de minha primeira oportunidade no campo, 
-  <p>com conhecimentos em linguagens como C#, HTML, CSS e experiência em banco de dados SQL Oracle.</p> 
+<p>Sou estudante de T.I., atualmente estou cursando o 4º semestre do Curso Técnico de Informática para Internet, e o 1º semestre na faculdade de Análise e Desenvolvimento de Software.
+  <p>Possuo conhecimentos em linguagens como C#, HTML, CSS e experiência em banco de dados SQL Oracle.</p> 
   <p>Minha busca por aprendizado é constante, e estou animada para aplicar minhas habilidades em projetos desafiadores.</p>
 </div>
 
